@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne pytanie</string>
+
+    <string name="toast_right">Dobra odpowiedź :D</string>
+    <string name="toast_wrong">Zła odpowiedź :(</string>
+
+    <string name="q_1">.NET jest lepszy od Javy</string>
+    <string name="q_2">Dynamicznie typowne języki są niepodważalnie lepsze od statycznie typowanych</string>
+    <string name="q_3">Microsoft jest najlepszą firmą na świecie</string>
+    <string name="q_4">Eduroam jest rozwiązaniem na którym można polegać</string>
+    <string name="q_5">Python jest przyjaznym dla użytkownika językiem</string>
+</resources>
